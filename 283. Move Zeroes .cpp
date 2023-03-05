@@ -29,10 +29,6 @@ public:
         }
     }
 };
-int main() {
-    vector<int> a = {1,3,4,5,0};
-    Solution().moveZeroes(a);
-    for(int i = 0 ; i < a.size();i++){
-        cout<<a[i]<<endl;
-    }
-}
+//
+// Created by dim on 2/28/23.
+//
